@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define MAX_LENGTH 50
+#define MAX 50
 
 #define EMPTY_STACK 1
 #define EXIT_SUCCESS 0
@@ -14,7 +14,7 @@
 struct direktorij;
 typedef struct direktorij* DirektorijPozicija;
 typedef struct direktorij {
-	char ime[MAX_LENGTH];
+	char ime[MAX];
 	DirektorijPozicija poddirektorijPozicija;
 	DirektorijPozicija next;
 } Direktorij;
@@ -36,7 +36,7 @@ int printDir(DirektorijPozicija, int);
 int main()
 {
 	char input = 0;
-	char ImeDir[MAX_LENGTH] = { 0 };
+	char ImeDir[MAX] = { 0 };
 	Direktorij headDir = { .ime = {0}, .poddirektorijPozicija = NULL, .next = NULL };
 	DirektorijPozicija rootDir = NULL;
 	stog headStog = { .direktorijLevel = NULL, .next = NULL };
