@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.1">
   <diagram name="Page-1" id="M2LNEqtIfmqjcTcKB-mf">
-    <mxGraphModel dx="2852" dy="1498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1901" dy="999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1V7mhFQArWC13XNGaeRc-141" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry y="40" width="850" height="870" as="geometry" />
         </mxCell>
-        <mxCell id="pajgnnAYTz7cmIwtwFmK-1" value="s" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1V7mhFQArWC13XNGaeRc-141" vertex="1">
+        <mxCell id="pajgnnAYTz7cmIwtwFmK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1V7mhFQArWC13XNGaeRc-141" vertex="1">
           <mxGeometry x="266.16161616161617" y="58.651685393258425" width="103.03030303030303" height="58.651685393258425" as="geometry" />
         </mxCell>
         <mxCell id="pajgnnAYTz7cmIwtwFmK-2" value="Knjižnica" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1V7mhFQArWC13XNGaeRc-141" vertex="1">
